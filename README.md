@@ -15,14 +15,19 @@ Instacart is an existing online grocery store operating through an app which has
 
 ## TASKS PERFORMED
 - [x] Loading all of Rockbuster’s data into a relational database management system
-- [x] Creating a data dictionary with dimension and fact tables including an Entity Relationship Diagram (ERD)
-- [x] Using SQL to analyze the data and answer the following business questions:
+- [x] Creating a population flow to demostrate changes (cleaning, merging, filtering) in the dataset
+- [x] Using Python to analyze the data and answer the following business questions:
 
-  - Which movies contributed the most/least to revenue gain? 
-  - Which countries are Rockbuster customers based in?
-  - Where are customers with a high lifetime value based? 
-  - Do sales figures vary between geographic regions?
+  1. What are the busiest days of the week and hours of the day?
+  2. Are there particular times of the day when people spend the most money?
+  3. Instacart has a lot of products with different price tags. Marketing and sales want to use simpler price range groupings to help direct their efforts.
+  4. Are there certain types of products that are more popular than others?
+  5. What’s the distribution among users in regards to their brand loyalty (i.e., how often do they return to Instacart)? 
+  6. Are there differences in ordering habits based on a customer’s loyalty status?
+  7. Are there differences in ordering habits based on a customer’s region?
+  8. Is there a connection between age and family status in terms of ordering habits?
+  9. 9. What different classifications does the demographic information suggest? Age? Income? Family status?
 
-- [x] Creating visualizations in Tableau to make the answers being easily understandable for the presentation’s audience
+- [x] Creating visualizations with Python Matplotlib / Seaborn to make the answers being easily understandable for the stakeholders
 - [x] Preparing the presentation of the answers with visualizations 
       [Link to the visualisations in Tableau](https://public.tableau.com/views/3_10_Rockbusters_Business_Case/Story1?:language=en-US&:display_count=n&:origin=viz_share_link)
