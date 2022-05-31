@@ -28,6 +28,6 @@ Instacart is an existing online grocery store operating through an app which has
   8. Is there a connection between age and family status in terms of ordering habits?
   9. What different classifications does the demographic information suggest? Age? Income? Family status?
 
-- [x] Created visualizations with Python Matplotlib / Seaborn to make the answers being easily understandable for the stakeholders
+- [x] Created visualizations with Python Matplotlib / Seaborn to make the answers easier consumable for the stakeholders
 - [x] Created a population flow to demostrate changes (cleaning, merging, filtering) in the dataset
 - [x] Prepared an Excel report with population flow, checks performed, data wrangling steps, column derivations, visualisations, answers and recommendations
