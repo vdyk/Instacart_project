@@ -1,5 +1,7 @@
 # Instacart_project
 
+![This is an image](Project%20Mgmt/Instacart_logo.png)
+
 ## SCENARIO
 Instacart is an existing online grocery store operating through an app which has very good sales, but they want to uncover more information about their sales patterns and apply targeted marketing. The conducted analysis answers business questions and provides recommendations for the marketing strategy based on the insights discovered.
 
